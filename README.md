@@ -101,6 +101,13 @@ Animations won't autostart when view is reached via performSegueWithIdentifier.
 ## ChangeLog
 - At [ChangeLog](https://github.com/MengTo/Spring/wiki/CHANGELOG) wiki page
 
+## Swift Package Manager
+```
+dependencies: [
+    .package(url: "https://github.com/HanweeeeLee/Spring", branch: "master")
+]
+```
+
 ## License
 
 Spring is released under the MIT license. See LICENSE for details.
