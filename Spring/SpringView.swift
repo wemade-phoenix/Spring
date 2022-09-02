@@ -22,7 +22,7 @@
 
 import UIKit
 
-open class SpringView: UIView, Springable {
+open class SpringView: UIView, Springable, WemadeSpringExtension {
     @IBInspectable public var autostart: Bool = false
     @IBInspectable public var autohide: Bool = false
     @IBInspectable public var animation: String = ""

@@ -22,7 +22,7 @@
 
 import UIKit
 
-open class SpringLabel: UILabel, Springable {
+open class SpringLabel: UILabel, Springable, WemadeSpringExtension {
     @IBInspectable public var autostart: Bool = false
     @IBInspectable public var autohide: Bool = false
     @IBInspectable public var animation: String = ""
