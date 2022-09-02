@@ -104,7 +104,7 @@ Animations won't autostart when view is reached via performSegueWithIdentifier.
 ## Swift Package Manager
 ```
 dependencies: [
-    .package(url: "https://github.com/HanweeeeLee/Spring", branch: "master")
+    .package(url: "https://github.com/wemade-phoenix/Spring", branch: "master")
 ]
 ```
 
